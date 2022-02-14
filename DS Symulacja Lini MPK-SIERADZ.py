@@ -65,6 +65,9 @@ input("Aby przejsc dalej nacisnij klawisz [ENTER]")
 time.sleep(3)
 print()
 print()
+#----------------------------------------------------------------
+# Rozkład Lini Nr 4 w Sieradzu : Kurs pomiedzy przystankami
+#----------------------------------------------------------------
 print("""
 |------------------------------------------------------------|
 |                      LINIA NR:4                            |        
@@ -316,6 +319,7 @@ DV25 = random.randrange(10,52)
 DV50 = random.randrange(10,52)
 DV75 = random.randrange(10,52)
 DV100 = random.randrange(10,52)
+# Symulacja prędkości autobusu
 print("|------------------------------------------------------------|")
 print("[Poprzednia stacja]-------[Stacja Nastepna] |",DV*0,"km/h |")
 time.sleep(3)
