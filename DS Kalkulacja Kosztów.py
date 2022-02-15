@@ -79,5 +79,5 @@ sys.exit()
 # - Trasa 2: Sieradz->Lodz Droga S8 i S14. (~65 km lub 77 km).
 # ---------------------------------------------
 # ad.2 Trasa Sieradz -> Zgorzelec.
-# - Trasa 1: Sieradz -> S8 -> A8 -> A4. (~320 km)
+# - Trasa 1: Sieradz -> S8 -> A8 -> A4. (~320 km).
 # ---------------------------------------------
