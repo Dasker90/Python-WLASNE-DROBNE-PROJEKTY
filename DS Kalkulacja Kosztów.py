@@ -53,6 +53,7 @@ for count in range (15):
     print(time.ctime())
     time.sleep(1)
 time.sleep(3)
+# ---------------------------------------------
 print("---------------------------------------------")
 print("Trasa: (",MiastoA,"-->",MiastoB,")")
 print("Odległość:",Odl1,"KM","-> W jedna strone !!!")
