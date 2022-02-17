@@ -590,4 +590,6 @@ print("https://rk.edu.pl/pl/losowe-liczby-i-wartosci-z-sekwencji/")
 print("---------------------------------------------")
 input("Aby wyjsc z programu nacisnij klawisz [ENTER]")
 sys.exit()
+#------------------------------------------------------------------------
 # Haslo logowania: qweas123
+# Program powstał do zaliczenia zadania z Podstaw Programowania
