@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------
-import time
+import time             #biblioteka czasu
 import datetime
 import sys
 import random
