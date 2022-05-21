@@ -592,4 +592,5 @@ input("Aby wyjsc z programu nacisnij klawisz [ENTER]")
 sys.exit()
 #------------------------------------------------------------------------
 # Haslo logowania: qweas123
+#-
 # Program powstał do zaliczenia zadania z Podstaw Programowania
