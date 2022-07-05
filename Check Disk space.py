@@ -6,7 +6,7 @@ print("| A.H.E Informatyka III rok|")
 print("| VI Semestr | Nr:142873   |")
 print("|--------------------------|")
 time.sleep(1)
-#---=
+#------------------------------------------------
 diskSize = 100
 diskSizeUsed = 90
 fileSize = 15
