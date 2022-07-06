@@ -43,7 +43,7 @@ lista =(random.randint(49,111)) #Predkosc przez trase w terenie zabudowanym 49-5
 #T=S/V
 #S = Odl1
 #T = none
-#V = lista
+#V = lista |-
 # ---------------------------------------------
 T=[Odl1/lista]
 print("---------------------------------------------")
