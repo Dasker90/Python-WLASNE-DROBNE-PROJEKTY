@@ -82,3 +82,4 @@ sys.exit()
 # ad.2 Trasa Sieradz -> Zgorzelec.
 # - Trasa 1: Sieradz -> S8 -> A8 -> A4. (~320 km).
 # ---------------------------------------------
+---
